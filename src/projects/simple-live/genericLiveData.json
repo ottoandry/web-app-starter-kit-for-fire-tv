@@ -33,8 +33,8 @@
             "title": "NASA Live Stream",
             "thumbURL": "assets/l11.jpg",
             "imgURL": "assets/nasa-logo.jpg",
-            "videoURL": "http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8",
-            "type": "video-live",
+            "videoURL": "http://188.165.192.5:8985/stream/1/",
+            "type": "audio-live",
             "alwaysLive": true, 
             "description": "The NASA Live Public TV Channel."
         }, 
